@@ -9,6 +9,7 @@ const {
   merge
 } = require("webpack-merge");
 const CracoBabelLoader = require("craco-babel-loader");
+const { removeModuleScopePlugin } = require("customize-cra");
 const path = require("path");
 const webpack = require("webpack");
 
@@ -182,6 +183,7 @@ module.exports = {
             path.resolve(__dirname, "src"),
             ...webpackConfig.resolve.modules,
           ];
+          removeModuleScopePlugin()(webpackConfig);
           return webpackConfig;
         },
       },

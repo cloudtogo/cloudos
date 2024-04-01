@@ -10497,6 +10497,7 @@ __metadata:
     craco-babel-loader: ^1.0.4
     craco-less: 2.1.0-alpha.0
     cross-env: ^7.0.3
+    customize-cra: ^1.0.0
     cy-verify-downloads: ^0.0.5
     cypress: ^12.17.4
     cypress-file-upload: ^4.1.1
@@ -14640,6 +14641,15 @@ __metadata:
   version: 2.1.8
   resolution: "cuid@npm:2.1.8"
   checksum: 12b85b3f5150a6f0b9e4f345c8d98299d74647419151751fa1132f6702fe2b5388ceceb1c9b49bad7cab1b3ac033c7cedea8ffc034930f90005b8a4345025288
+  languageName: node
+  linkType: hard
+
+"customize-cra@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "customize-cra@npm:1.0.0"
+  dependencies:
+    lodash.flow: ^3.5.0
+  checksum: b38c48a607efc2321e6f2f12a3b53f3497b2f9b0008b48242524a92a1f26f8ae50bd73c97526e7d89c32b51f53711948e0da8f7e3618c9875087227a11a5feeb
   languageName: node
   linkType: hard
 
@@ -22523,7 +22533,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lodash.flow@npm:^3.3.0":
+"lodash.flow@npm:^3.3.0, lodash.flow@npm:^3.5.0":
   version: 3.5.0
   resolution: "lodash.flow@npm:3.5.0"
   checksum: a9a62ad344e3c5a1f42bc121da20f64dd855aaafecee24b1db640f29b88bd165d81c37ff7e380a7191de6f70b26f5918abcebbee8396624f78f3618a0b18634c

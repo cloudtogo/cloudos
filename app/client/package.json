@@ -319,6 +319,7 @@
     "compression-webpack-plugin": "^10.0.0",
     "cra-bundle-analyzer": "^0.1.0",
     "cross-env": "^7.0.3",
+    "customize-cra": "^1.0.0",
     "cy-verify-downloads": "^0.0.5",
     "cypress": "^12.17.4",
     "cypress-file-upload": "^4.1.1",
