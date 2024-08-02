@@ -93,7 +93,7 @@ PagePlug提供很多针对安全性的支持，包括身份验证、授权、加
   PagePlug 制作的完整电商小程序案例，支持注册、登录、二级商品分类、商品搜索、商品详情、购物车、购买下单、收货地址管理、订单管理等功能。后端接口使用开源商城后台 [litmall](https://github.com/linlinjava/litemall) 
 
 - 工程管理系统（PC web应用）  
-  [体验地址](https://lowcode.methodot.com/applications/64fa8c756fbfd93d5cd5cafa/pages/64fa8c756fbfd93d5cd5cb07/?hmsr=G1&hmpl=A2)  
+  [体验地址](https://lowcode.pageplug.cn/applications/66a74833284da125b39b5c4f/pages/66a74833284da125b39b5c5d)  
   PagePlug 制作的一个典型CRUD项目，实现了基本增删改查、后端分页、搜索过滤、弹窗表单、复杂表单等功能
 
 - 企业CRM系统（PC web应用）  
@@ -101,7 +101,7 @@ PagePlug提供很多针对安全性的支持，包括身份验证、授权、加
   PagePlug 制作的简单CRM项目，实现了线索、商机和客户的信息管理
 
 - 跨境电商仓库管理系统（PC web应用） 
-  [体验地址](https://lowcode.methodot.com/app/application/page-6524c1cc6fbfd93d5cd64b97?embed=1/?hmsr=G1&hmpl=A1) 
+  [体验地址](https://lowcode.pageplug.cn/app/application/page-6660128cef88d92076ef15c9) 
 
 该库存管理模版是一款旨在帮助企业高效管理库存的系统，该系统允许用户管理多个仓库的产品和库存、以及跟踪供应商产品和管理供应商
 
